@@ -1,4 +1,4 @@
-                                                gateway_service
+                                                  gateway_service
 1)About the project.     
 
 This project is a gateway microservice that is needed for other services. Requests to other services pass through the gateway.
